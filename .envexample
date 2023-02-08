@@ -1,0 +1,9 @@
+MYSQL_DB=desklog_productivity
+# MYSQL_DB2=desklog_project
+MYSQL_USER=remoteadmin
+MYSQL_PASS=remoteadmin
+MYSQL_HOST=192.168.5.19
+MYSQL_PORT=3306
+NODE_ENV=development
+
+PORT=8002
